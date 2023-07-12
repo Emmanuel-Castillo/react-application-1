@@ -22,3 +22,8 @@ a:hover {
     color: #242424;
 }
 
+a:active {
+    background-color: orange;
+    transition: 0s;
+}
+
